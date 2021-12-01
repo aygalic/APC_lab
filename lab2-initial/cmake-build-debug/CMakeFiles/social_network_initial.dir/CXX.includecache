@@ -6,23 +6,23 @@
 
 #IncludeRegexTransform: 
 
-/Users/aygalic/OneDrive/polimi/COURSES/S7/Algorithms and Parallel Computing/lab/lab2-initial/social_network.cpp
+/Users/aygalic/OneDrive/polimi/COURSES/S7/Algorithms and Parallel Computing/lab/APC_lab/lab2-initial/social_network.cpp
 social_network.hpp
-/Users/aygalic/OneDrive/polimi/COURSES/S7/Algorithms and Parallel Computing/lab/lab2-initial/social_network.hpp
+/Users/aygalic/OneDrive/polimi/COURSES/S7/Algorithms and Parallel Computing/lab/APC_lab/lab2-initial/social_network.hpp
 user.hpp
-/Users/aygalic/OneDrive/polimi/COURSES/S7/Algorithms and Parallel Computing/lab/lab2-initial/user.hpp
+/Users/aygalic/OneDrive/polimi/COURSES/S7/Algorithms and Parallel Computing/lab/APC_lab/lab2-initial/user.hpp
 iostream
 -
 vector
 -
 
-/Users/aygalic/OneDrive/polimi/COURSES/S7/Algorithms and Parallel Computing/lab/lab2-initial/social_network.hpp
+/Users/aygalic/OneDrive/polimi/COURSES/S7/Algorithms and Parallel Computing/lab/APC_lab/lab2-initial/social_network.hpp
 user.hpp
-/Users/aygalic/OneDrive/polimi/COURSES/S7/Algorithms and Parallel Computing/lab/lab2-initial/user.hpp
+/Users/aygalic/OneDrive/polimi/COURSES/S7/Algorithms and Parallel Computing/lab/APC_lab/lab2-initial/user.hpp
 vector
 -
 
-/Users/aygalic/OneDrive/polimi/COURSES/S7/Algorithms and Parallel Computing/lab/lab2-initial/user.hpp
+/Users/aygalic/OneDrive/polimi/COURSES/S7/Algorithms and Parallel Computing/lab/APC_lab/lab2-initial/user.hpp
 string
 -
 

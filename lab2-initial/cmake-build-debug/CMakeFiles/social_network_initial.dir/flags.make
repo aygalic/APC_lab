@@ -4,7 +4,7 @@
 # compile CXX with /Library/Developer/CommandLineTools/usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I"/Users/aygalic/OneDrive/polimi/COURSES/S7/Algorithms and Parallel Computing/lab/lab2-initial/."
+CXX_INCLUDES = -I"/Users/aygalic/OneDrive/polimi/COURSES/S7/Algorithms and Parallel Computing/lab/APC_lab/lab2-initial/."
 
 CXX_FLAGSarm64 = -Wall -Wextra -Wconversion -Wsign-conversion -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -std=gnu++11
 

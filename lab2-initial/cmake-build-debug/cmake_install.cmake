@@ -1,4 +1,4 @@
-# Install script for directory: /Users/aygalic/OneDrive/polimi/COURSES/S7/Algorithms and Parallel Computing/lab/lab2-initial
+# Install script for directory: /Users/aygalic/OneDrive/polimi/COURSES/S7/Algorithms and Parallel Computing/lab/APC_lab/lab2-initial
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/aygalic/OneDrive/polimi/COURSES/S7/Algorithms and Parallel Computing/lab/lab2-initial/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/aygalic/OneDrive/polimi/COURSES/S7/Algorithms and Parallel Computing/lab/APC_lab/lab2-initial/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

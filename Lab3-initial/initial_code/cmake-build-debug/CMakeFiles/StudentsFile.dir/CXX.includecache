@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aygalic/OneDrive/polimi/COURSES/S7/Algorithms and Parallel Computing/lab/Lab3-initial/initial_code/Exam.h
+string
+-
+
+/Users/aygalic/OneDrive/polimi/COURSES/S7/Algorithms and Parallel Computing/lab/Lab3-initial/initial_code/FileManager.h
+iostream
+-
+fstream
+-
+sstream
+-
+StudentsData.h
+/Users/aygalic/OneDrive/polimi/COURSES/S7/Algorithms and Parallel Computing/lab/Lab3-initial/initial_code/StudentsData.h
+
+/Users/aygalic/OneDrive/polimi/COURSES/S7/Algorithms and Parallel Computing/lab/Lab3-initial/initial_code/StudentsData.h
+vector
+-
+string
+-
+Exam.h
+/Users/aygalic/OneDrive/polimi/COURSES/S7/Algorithms and Parallel Computing/lab/Lab3-initial/initial_code/Exam.h
+
+/Users/aygalic/OneDrive/polimi/COURSES/S7/Algorithms and Parallel Computing/lab/Lab3-initial/initial_code/main.cpp
+iostream
+-
+unordered_map
+-
+FileManager.h
+/Users/aygalic/OneDrive/polimi/COURSES/S7/Algorithms and Parallel Computing/lab/Lab3-initial/initial_code/FileManager.h
+

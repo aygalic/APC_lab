@@ -72,6 +72,8 @@ void SocialNetwork::AddFriendship(const std::string &first_name,
                                   const std::string &second_name,
                                   const std::string &second_surname) {
 
+
+
     //don't be friend with urself
     if(User(first_name, first_surname)==User(second_name, second_surname)){
         return;
@@ -95,6 +97,9 @@ void SocialNetwork::AddFriendship(const std::string &first_name,
     //actually add friend if everything is fine
     friends[CUserIndex(first_name, first_surname)].push_back(CUserIndex(second_name, second_surname));
 
+
+    //friend ships works both way
+    AddFriendship(second_name, second_surname, first_name, first_surname);
 }
 
 }

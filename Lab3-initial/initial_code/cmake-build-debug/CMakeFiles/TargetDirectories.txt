@@ -1,0 +1,3 @@
+/Users/aygalic/OneDrive/polimi/COURSES/S7/Algorithms and Parallel Computing/lab/Lab3-initial/initial_code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/aygalic/OneDrive/polimi/COURSES/S7/Algorithms and Parallel Computing/lab/Lab3-initial/initial_code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aygalic/OneDrive/polimi/COURSES/S7/Algorithms and Parallel Computing/lab/Lab3-initial/initial_code/cmake-build-debug/CMakeFiles/StudentsFile.dir
